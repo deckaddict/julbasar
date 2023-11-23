@@ -2,25 +2,35 @@
 
 ## Förberedelser i god tid
 
-Inventera kartong, veke och ljusmassa.
-Beräkna hur mkt mer som behövs för att kunna stöpa totalt ca 450 ljus.
+* Inventera kartong, veke och ljusmassa. (krävs ca 1m veke per pinne)
+* Beräkna hur mkt mer som behövs för att kunna stöpa totalt ca 450 ljus.
+* Förbered alla pinnar med vekar (ca 160 st). 62cm veke fasttejpad med 5cm tejp ger lagom lång veke och distans emellan vekar för stöpning. 35 cm veke att knyta fast med samma höjd.
 
 ## Förberedelser kvällen innan
 
-Fota klassrummet.
-Skjut undan bänkar in mot väggarna.
-Dra förlängningssladd ifrån rummet bredvid.
-Bär upp all utrustning och golvpapp.
-Pappa golv.
-Lägg masonit/fiberskiva där stöpmaskinen skall stå.
-Pappa även den skivan.
-Pappa värmeaggregatet på maskinen.
-Pappa diskbänk.
-Ställ upp ljusparkering mha stolar och slanor.
-Ställ i ordning en kassa.
-Gör en skylt.
-Beräkna ration emellan ny ljusmassa och gamla ljus som går att stöpa givet att alla pinnar går åt.
-Klipp ut pappbitar att ta hem ljus på.
+* Fota klassrummet.
+* Skjut undan bänkar in mot väggarna.
+* Dra förlängningssladd ifrån rummet bredvid.
+* Bär upp all utrustning och golvpapp.
+* Pappa golv.
+* Lägg masonit/fiberskiva där stöpmaskinen skall stå.
+* Pappa även den skivan.
+* Pappa värmeaggregatet på maskinen.
+* Fyll på vatten i maskinens yttertank. Gärna med varmvatten.
+* Starta uppvärmning.
+* Fyll på stora tanken.
+* Fortsätt uppvärmning upp till 70 grader (tar ca 3h).
+* Täck in maskinen med filtar för att hålla värmen till dagen efter.
+* Pappa diskbänk.
+* Ställ upp ljusparkering mha stolar och slanor.
+* Ställ i ordning en kassa.
+* Gör en skylt med pris och stängningstid.
+* Beräkna ration emellan ny ljusmassa och gamla ljus som går att stöpa givet att alla pinnar går åt.
+* Klipp ut pappbitar att ta hem ljus på.
+
+## Förberedelser på morgonen
+
+Vid redan uppvärmd maskin. Starta värmen igen ca 8.00.
 
 ## Instruktioner under pågående stöpning
 
@@ -57,3 +67,17 @@ Vid första stöpet får vekarna rätas ut för hand.
 Tänk på att ett dopp skall gå ganska fort (upp och ner på ca 2 sekunder tror jag), annars smälter det bort stearin istället för att fastna nytt på ljusen.
 
 ## Efterarbete
+
+Vid 15.30 börja stöp klart alla ljus och ta inte in fler besökare.
+
+* Stäng av maskinen.
+* Töm yttertanken försiktigt mha kranen.
+* Häll ut stora tanken utomhus. Häll på ett papper som fångar upp stearin.
+* Torka ur behållaren.
+* Pappa av golvet.
+* Bär ner återanvändbar papp och all saker till källaren.
+
+## Förbättringar
+
+* Se till att skaffa en avbitartång för vekar.
+* Skaffa skjutmått för att mäta ljustjocklek.
