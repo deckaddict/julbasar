@@ -76,6 +76,7 @@ Vid 15.30 börja stöp klart alla ljus och ta inte in fler besökare.
 * Torka ur behållaren.
 * Pappa av golvet.
 * Bär ner återanvändbar papp och all saker till källaren.
+* Räkna antalet pinnar som gått åt för att underlätta nästa års inventering.
 
 ## Förbättringar
 
