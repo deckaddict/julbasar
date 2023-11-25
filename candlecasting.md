@@ -38,7 +38,11 @@ Håll fönstren stängda hela tiden, annars blir ljusen sneda.
 
 ### Kassan
 
-Ta betalt 20kr per pinne. Informera om att man får behålla två ljus och skänka ett till skolan.
+Ta betalt 20kr per pinne.
+Påpeka att swish kostar per transaktion och sälj extra klippkort.
+Kryssa av "pengarna" med penna för de som använder klippkort.
+
+Informera om att man får behålla två ljus och skänka ett till skolan.
 Förklara att man skall ta långa varv (minst 30 sekunder, förmodligen mer) så att stearinet stelnar innan nästa dopp.
 Rekommendera att man parkerar sina pinnar och tar en paus när de börjat få upp lite tjocklek.
 Detta för att svalna av och minska risken att bli krökta.
@@ -71,9 +75,15 @@ Tänk på att ett dopp skall gå ganska fort (upp och ner på ca 2 sekunder tror
 Vid 15.30 börja stöp klart alla ljus och ta inte in fler besökare.
 
 * Stäng av maskinen.
-* Töm yttertanken försiktigt mha kranen.
-* Häll ut stora tanken utomhus. Häll på ett papper som fångar upp stearin.
+* Töm innertanken försiktigt mha kranen i plastburken. INGET stearin får hällas i hon.
+* Töm yttertanken utomhus. Bär ner försiktigt. Häll på ett papper som fångar upp stearin.
 * Torka ur behållaren.
+* Packa ner skolans ljus i större kartong och lämna till personalen (lägg ej i källaren).
+* Räkna antalet använda pinnar.
+* Packa ihop alla saker och bär ner i källaren.
+* Rulla ihop papp och lämna i källaren.
+* Städa bänkar och golv.
+* Återställ möblemang enligt foton.
 * Pappa av golvet.
 * Bär ner återanvändbar papp och all saker till källaren.
 * Räkna antalet pinnar som gått åt för att underlätta nästa års inventering.
