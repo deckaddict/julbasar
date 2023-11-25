@@ -38,6 +38,16 @@ Håll fönstren stängda hela tiden, annars blir ljusen sneda.
 
 ### Kassan
 
+- Hälsa välkommen 
+- köp tre, behåll två, en till skolan 
+- Fråga om dom kommer köpa mer idag - erbjud köpa tre klipp kort för att spara skolan på swish avgift
+- informera att dom inte gäller för klass nio, då dom har egen reskassa
+- ta pinne
+- skriv ned pinned nummer + namn
+- informera att dom kommer behöva komma två gånger och sätta ljuset på parkering 
+- mellan varje stöpning, går långsamt varv runt stolarna för att låta stearinet hårnda 
+- gå till station för ljusstöpning för vidare instruktioner
+
 Ta betalt 20kr per pinne.
 Påpeka att swish kostar per transaktion och sälj extra klippkort.
 Kryssa av "pengarna" med penna för de som använder klippkort.
